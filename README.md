@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new technologies and innovative solutions in the tech space.
 - 🌱 I’m currently learning java  and excited to dive deeper into its applications.
 - 💞️ I’m looking to collaborate on projects involving Java development, IoT, and innovative tech solutions.
-- 📫 How to reach me  Email(vikneshviknesh707@hmail.com) 
+- 📫 How to reach me  Email(vikneshviknesh707@gmail.com) 
 - 😄 Pronouns He/him/his
 - ⚡ Fun fact:  I did a state-level innovation project on saltwater using IoT, which won 1st prize!
 
